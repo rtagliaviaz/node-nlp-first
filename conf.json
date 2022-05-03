@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "nlp": {
+      "corpora": ["./corpus2.json"]
+    },
+    "api-server": {
+      "port": 8080,
+      "serveBot": true
+    }
+  },
+  "use": ["Basic", "ExpressApiServer", "DirectlineConnector"]
+}

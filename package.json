@@ -1,0 +1,18 @@
+{
+  "name": "heroes-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/basic": "^4.23.5",
+    "@nlpjs/directline-connector": "^4.23.4",
+    "@nlpjs/express-api-server": "^4.23.4",
+    "node-nlp": "^4.23.5"
+  }
+}
